@@ -1,0 +1,15 @@
+C:\Users\osagi\OneDrive\Desktop\C#\New folder (9)\HelloWPFApp\HelloWPFApp\bin\Debug\HelloWPFApp.exe.config
+C:\Users\osagi\OneDrive\Desktop\C#\New folder (9)\HelloWPFApp\HelloWPFApp\bin\Debug\HelloWPFApp.exe
+C:\Users\osagi\OneDrive\Desktop\C#\New folder (9)\HelloWPFApp\HelloWPFApp\bin\Debug\HelloWPFApp.pdb
+C:\Users\osagi\OneDrive\Desktop\C#\New folder (9)\HelloWPFApp\HelloWPFApp\obj\Debug\HelloWPFApp.csprojAssemblyReference.cache
+C:\Users\osagi\OneDrive\Desktop\C#\New folder (9)\HelloWPFApp\HelloWPFApp\obj\Debug\App.g.cs
+C:\Users\osagi\OneDrive\Desktop\C#\New folder (9)\HelloWPFApp\HelloWPFApp\obj\Debug\HelloWPFApp_MarkupCompile.cache
+C:\Users\osagi\OneDrive\Desktop\C#\New folder (9)\HelloWPFApp\HelloWPFApp\obj\Debug\HelloWPFApp_MarkupCompile.lref
+C:\Users\osagi\OneDrive\Desktop\C#\New folder (9)\HelloWPFApp\HelloWPFApp\obj\Debug\HelloWPFApp.g.resources
+C:\Users\osagi\OneDrive\Desktop\C#\New folder (9)\HelloWPFApp\HelloWPFApp\obj\Debug\HelloWPFApp.Properties.Resources.resources
+C:\Users\osagi\OneDrive\Desktop\C#\New folder (9)\HelloWPFApp\HelloWPFApp\obj\Debug\HelloWPFApp.csproj.GenerateResource.cache
+C:\Users\osagi\OneDrive\Desktop\C#\New folder (9)\HelloWPFApp\HelloWPFApp\obj\Debug\HelloWPFApp.csproj.CoreCompileInputs.cache
+C:\Users\osagi\OneDrive\Desktop\C#\New folder (9)\HelloWPFApp\HelloWPFApp\obj\Debug\HelloWPFApp.exe
+C:\Users\osagi\OneDrive\Desktop\C#\New folder (9)\HelloWPFApp\HelloWPFApp\obj\Debug\HelloWPFApp.pdb
+C:\Users\osagi\OneDrive\Desktop\C#\New folder (9)\HelloWPFApp\HelloWPFApp\obj\Debug\Greetings.g.cs
+C:\Users\osagi\OneDrive\Desktop\C#\New folder (9)\HelloWPFApp\HelloWPFApp\obj\Debug\Greetings.baml
